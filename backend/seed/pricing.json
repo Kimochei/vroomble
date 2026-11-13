@@ -1,0 +1,5666 @@
+{
+ "models": [
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "base_price": 750000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "base_price": 650000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "base_price": 1500000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "base_price": 950000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "base_price": 2100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "base_price": 1450000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "base_price": 1400000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "base_price": 1100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "base_price": 2500000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "base_price": 700000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "base_price": 2200000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "base_price": 1100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "base_price": 1600000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "base_price": 950000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "base_price": 850000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "base_price": 700000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "base_price": 1750000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "base_price": 700000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "base_price": 2300000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "base_price": 1800000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "base_price": 850000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "base_price": 1300000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "base_price": 1500000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "base_price": 1800000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "base_price": 1100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "base_price": 800000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "base_price": 1800000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "base_price": 1300000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "base_price": 1100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "base_price": 850000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "base_price": 1100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "base_price": 1500000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "base_price": 950000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "base_price": 1900000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "base_price": 2100000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "base_price": 900000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "base_price": 700000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "base_price": 950000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "base_price": 800000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "base_price": 1050000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "base_price": 1350000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "base_price": 1900000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "base_price": 1050000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "base_price": 750000,
+   "monthly_inflation_rate": 0.05
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "base_price": 700000,
+   "monthly_inflation_rate": 0.05
+  }
+ ],
+ "modifications": [
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "ARB CHEVROLET SAIL ALL-TERRAIN TIRES",
+   "cost": 69325
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "Cusco CHEVROLET SAIL HEAVY-DUTY SKID PLATE",
+   "cost": 62346
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "Modulo CHEVROLET SAIL BULL BAR",
+   "cost": 13261
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "Mugen CHEVROLET SAIL SNORKEL INTAKE SYSTEM",
+   "cost": 60047
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "Mugen CHEVROLET SAIL SUSPENSION LIFT KIT",
+   "cost": 63722
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Offroad",
+   "part": "TEIN CHEVROLET SAIL FENDER FLARES",
+   "cost": 32353
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "ARB CHEVROLET SAIL COILOVER SUSPENSION",
+   "cost": 76365
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo CHEVROLET SAIL PERFORMANCE CHIP TUNER",
+   "cost": 71851
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco CHEVROLET SAIL BIG BRAKE KIT",
+   "cost": 23245
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "K&N CHEVROLET SAIL PERFORMANCE EXHAUST SYSTEM",
+   "cost": 92357
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo CHEVROLET SAIL HIGH-FLOW AIR INTAKE",
+   "cost": 37365
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN CHEVROLET SAIL STRUT TOWER BAR",
+   "cost": 108304
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "Brembo CHEVROLET SAIL REAR SPOILER",
+   "cost": 8617
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "HKS CHEVROLET SAIL ROOF RAIL CROSS BARS",
+   "cost": 12226
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "K&N CHEVROLET SAIL CHROME DOOR HANDLE COVERS",
+   "cost": 14172
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "Modulo CHEVROLET SAIL CHROME SIDE MIRROR COVERS",
+   "cost": 12834
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "Modulo CHEVROLET SAIL LED FOG LAMP KIT",
+   "cost": 4850
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Sail",
+   "modification_type": "Street/Casual",
+   "part": "Modulo CHEVROLET SAIL WINDOW VISOR RAIN GUARDS",
+   "cost": 7263
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo CHEVROLET SPARK HIGH-FLOW AIR INTAKE",
+   "cost": 107598
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "K&N CHEVROLET SPARK STRUT TOWER BAR",
+   "cost": 81540
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo CHEVROLET SPARK COILOVER SUSPENSION",
+   "cost": 50931
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen CHEVROLET SPARK BIG BRAKE KIT",
+   "cost": 15513
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen CHEVROLET SPARK PERFORMANCE EXHAUST SYSTEM",
+   "cost": 82989
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing CHEVROLET SPARK PERFORMANCE CHIP TUNER",
+   "cost": 70800
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "Cusco CHEVROLET SPARK CHROME SIDE MIRROR COVERS",
+   "cost": 14212
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 CHEVROLET SPARK CHROME DOOR HANDLE COVERS",
+   "cost": 6819
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 CHEVROLET SPARK REAR SPOILER",
+   "cost": 12253
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "K&N CHEVROLET SPARK ROOF RAIL CROSS BARS",
+   "cost": 13058
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "Modulo CHEVROLET SPARK LED FOG LAMP KIT",
+   "cost": 9177
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Spark",
+   "modification_type": "Street/Casual",
+   "part": "Modulo CHEVROLET SPARK WINDOW VISOR RAIN GUARDS",
+   "cost": 14844
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "HKS CHEVROLET TRAILBLAZER HEAVY-DUTY SKID PLATE",
+   "cost": 28404
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 CHEVROLET TRAILBLAZER SNORKEL INTAKE SYSTEM",
+   "cost": 64152
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "K&N CHEVROLET TRAILBLAZER ALL-TERRAIN TIRES",
+   "cost": 59409
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "K&N CHEVROLET TRAILBLAZER FENDER FLARES",
+   "cost": 64781
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "K&N CHEVROLET TRAILBLAZER SUSPENSION LIFT KIT",
+   "cost": 12280
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Offroad",
+   "part": "Modulo CHEVROLET TRAILBLAZER BULL BAR",
+   "cost": 14335
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo CHEVROLET TRAILBLAZER COILOVER SUSPENSION",
+   "cost": 101467
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo CHEVROLET TRAILBLAZER PERFORMANCE EXHAUST SYSTEM",
+   "cost": 94520
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo CHEVROLET TRAILBLAZER STRUT TOWER BAR",
+   "cost": 96573
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco CHEVROLET TRAILBLAZER PERFORMANCE CHIP TUNER",
+   "cost": 107154
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "HKS CHEVROLET TRAILBLAZER BIG BRAKE KIT",
+   "cost": 113988
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 CHEVROLET TRAILBLAZER HIGH-FLOW AIR INTAKE",
+   "cost": 69850
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "Brembo CHEVROLET TRAILBLAZER REAR SPOILER",
+   "cost": 5372
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "HKS CHEVROLET TRAILBLAZER CHROME SIDE MIRROR COVERS",
+   "cost": 6677
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 CHEVROLET TRAILBLAZER CHROME DOOR HANDLE COVERS",
+   "cost": 14561
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 CHEVROLET TRAILBLAZER WINDOW VISOR RAIN GUARDS",
+   "cost": 14074
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "K&N CHEVROLET TRAILBLAZER ROOF RAIL CROSS BARS",
+   "cost": 4730
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "modification_type": "Street/Casual",
+   "part": "Mugen CHEVROLET TRAILBLAZER LED FOG LAMP KIT",
+   "cost": 8477
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "ARB FORD ECOSPORT ALL-TERRAIN TIRES",
+   "cost": 53669
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "ARB FORD ECOSPORT FENDER FLARES",
+   "cost": 53369
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "ARB FORD ECOSPORT HEAVY-DUTY SKID PLATE",
+   "cost": 38951
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "ARB FORD ECOSPORT SNORKEL INTAKE SYSTEM",
+   "cost": 35260
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "Modulo FORD ECOSPORT BULL BAR",
+   "cost": 30946
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Offroad",
+   "part": "Modulo FORD ECOSPORT SUSPENSION LIFT KIT",
+   "cost": 34154
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco FORD ECOSPORT HIGH-FLOW AIR INTAKE",
+   "cost": 52933
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco FORD ECOSPORT PERFORMANCE CHIP TUNER",
+   "cost": 55308
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "K&N FORD ECOSPORT STRUT TOWER BAR",
+   "cost": 67893
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo FORD ECOSPORT COILOVER SUSPENSION",
+   "cost": 79663
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo FORD ECOSPORT PERFORMANCE EXHAUST SYSTEM",
+   "cost": 81224
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN FORD ECOSPORT BIG BRAKE KIT",
+   "cost": 27227
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "ARB FORD ECOSPORT WINDOW VISOR RAIN GUARDS",
+   "cost": 4112
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "Brembo FORD ECOSPORT REAR SPOILER",
+   "cost": 14883
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "Cusco FORD ECOSPORT ROOF RAIL CROSS BARS",
+   "cost": 6872
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "HKS FORD ECOSPORT CHROME DOOR HANDLE COVERS",
+   "cost": 4047
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "Modulo FORD ECOSPORT CHROME SIDE MIRROR COVERS",
+   "cost": 5432
+  },
+  {
+   "make": "Ford",
+   "model": "EcoSport",
+   "modification_type": "Street/Casual",
+   "part": "Modulo FORD ECOSPORT LED FOG LAMP KIT",
+   "cost": 6679
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Offroad",
+   "part": "Ford Everest Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Offroad",
+   "part": "Ford Everest Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Offroad",
+   "part": "Ford Everest Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Offroad",
+   "part": "Ford Everest Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Offroad",
+   "part": "Ford Everest Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Everest Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Everest Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Everest Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Everest Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Everest Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Street/Casual",
+   "part": "Ford Everest Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Street/Casual",
+   "part": "Ford Everest Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Street/Casual",
+   "part": "Ford Everest LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Street/Casual",
+   "part": "Ford Everest Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Ford",
+   "model": "Everest",
+   "modification_type": "Street/Casual",
+   "part": "Ford Everest Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Offroad",
+   "part": "Ford Ranger Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Offroad",
+   "part": "Ford Ranger Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Offroad",
+   "part": "Ford Ranger Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Offroad",
+   "part": "Ford Ranger Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Offroad",
+   "part": "Ford Ranger Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Ranger Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Ranger Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Ranger Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Ranger Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Sports/Performance",
+   "part": "Ford Ranger Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Street/Casual",
+   "part": "Ford Ranger Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Street/Casual",
+   "part": "Ford Ranger Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Street/Casual",
+   "part": "Ford Ranger LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Street/Casual",
+   "part": "Ford Ranger Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Ford",
+   "model": "Ranger",
+   "modification_type": "Street/Casual",
+   "part": "Ford Ranger Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "ARB FORD TERRITORY HEAVY-DUTY SKID PLATE",
+   "cost": 33029
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "HKS FORD TERRITORY FENDER FLARES",
+   "cost": 42339
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "HKS FORD TERRITORY SNORKEL INTAKE SYSTEM",
+   "cost": 11366
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "TEIN FORD TERRITORY ALL-TERRAIN TIRES",
+   "cost": 19014
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "TEIN FORD TERRITORY BULL BAR",
+   "cost": 54602
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Offroad",
+   "part": "TEIN FORD TERRITORY SUSPENSION LIFT KIT",
+   "cost": 31073
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "ARB FORD TERRITORY HIGH-FLOW AIR INTAKE",
+   "cost": 18884
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "ARB FORD TERRITORY PERFORMANCE EXHAUST SYSTEM",
+   "cost": 77999
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 FORD TERRITORY STRUT TOWER BAR",
+   "cost": 41444
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo FORD TERRITORY COILOVER SUSPENSION",
+   "cost": 116772
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen FORD TERRITORY PERFORMANCE CHIP TUNER",
+   "cost": 116520
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing FORD TERRITORY BIG BRAKE KIT",
+   "cost": 111210
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "ARB FORD TERRITORY LED FOG LAMP KIT",
+   "cost": 5964
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "HKS FORD TERRITORY REAR SPOILER",
+   "cost": 11741
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 FORD TERRITORY CHROME DOOR HANDLE COVERS",
+   "cost": 11198
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "K&N FORD TERRITORY CHROME SIDE MIRROR COVERS",
+   "cost": 4135
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "K&N FORD TERRITORY ROOF RAIL CROSS BARS",
+   "cost": 5182
+  },
+  {
+   "make": "Ford",
+   "model": "Territory",
+   "modification_type": "Street/Casual",
+   "part": "Mugen FORD TERRITORY WINDOW VISOR RAIN GUARDS",
+   "cost": 5304
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "Brembo GEELY COOLRAY FENDER FLARES",
+   "cost": 63965
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "HKS GEELY COOLRAY SNORKEL INTAKE SYSTEM",
+   "cost": 32726
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "HKS GEELY COOLRAY SUSPENSION LIFT KIT",
+   "cost": 66435
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "K&N GEELY COOLRAY BULL BAR",
+   "cost": 21159
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "Mugen GEELY COOLRAY ALL-TERRAIN TIRES",
+   "cost": 52781
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Offroad",
+   "part": "Mugen GEELY COOLRAY HEAVY-DUTY SKID PLATE",
+   "cost": 18964
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "ARB GEELY COOLRAY HIGH-FLOW AIR INTAKE",
+   "cost": 84978
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco GEELY COOLRAY BIG BRAKE KIT",
+   "cost": 43471
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco GEELY COOLRAY PERFORMANCE CHIP TUNER",
+   "cost": 80289
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco GEELY COOLRAY STRUT TOWER BAR",
+   "cost": 37400
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN GEELY COOLRAY COILOVER SUSPENSION",
+   "cost": 99893
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN GEELY COOLRAY PERFORMANCE EXHAUST SYSTEM",
+   "cost": 119775
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "Brembo GEELY COOLRAY ROOF RAIL CROSS BARS",
+   "cost": 14433
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "Cusco GEELY COOLRAY LED FOG LAMP KIT",
+   "cost": 12416
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "K&N GEELY COOLRAY REAR SPOILER",
+   "cost": 12497
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "Mugen GEELY COOLRAY CHROME DOOR HANDLE COVERS",
+   "cost": 3187
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "TEIN GEELY COOLRAY WINDOW VISOR RAIN GUARDS",
+   "cost": 7060
+  },
+  {
+   "make": "Geely",
+   "model": "Coolray",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing GEELY COOLRAY CHROME SIDE MIRROR COVERS",
+   "cost": 7028
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo HONDA ACCORD COILOVER SUSPENSION",
+   "cost": 56640
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco HONDA ACCORD HIGH-FLOW AIR INTAKE",
+   "cost": 65889
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "HKS HONDA ACCORD BIG BRAKE KIT",
+   "cost": 95608
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "HKS HONDA ACCORD PERFORMANCE CHIP TUNER",
+   "cost": 46220
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "HKS HONDA ACCORD PERFORMANCE EXHAUST SYSTEM",
+   "cost": 82671
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing HONDA ACCORD STRUT TOWER BAR",
+   "cost": 72023
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "ARB HONDA ACCORD CHROME DOOR HANDLE COVERS",
+   "cost": 6347
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "ARB HONDA ACCORD WINDOW VISOR RAIN GUARDS",
+   "cost": 14879
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "K&N HONDA ACCORD CHROME SIDE MIRROR COVERS",
+   "cost": 5012
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "Modulo HONDA ACCORD REAR SPOILER",
+   "cost": 8710
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "Modulo HONDA ACCORD ROOF RAIL CROSS BARS",
+   "cost": 10519
+  },
+  {
+   "make": "Honda",
+   "model": "Accord",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HONDA ACCORD LED FOG LAMP KIT",
+   "cost": 5994
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "ARB HONDA BRIO PERFORMANCE EXHAUST SYSTEM",
+   "cost": 10979
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo HONDA BRIO COILOVER SUSPENSION",
+   "cost": 60653
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "HKS HONDA BRIO HIGH-FLOW AIR INTAKE",
+   "cost": 91621
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HONDA BRIO BIG BRAKE KIT",
+   "cost": 45233
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo HONDA BRIO STRUT TOWER BAR",
+   "cost": 59003
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing HONDA BRIO PERFORMANCE CHIP TUNER",
+   "cost": 115977
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "Cusco HONDA BRIO REAR SPOILER",
+   "cost": 12015
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "K&N HONDA BRIO CHROME SIDE MIRROR COVERS",
+   "cost": 9142
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "K&N HONDA BRIO LED FOG LAMP KIT",
+   "cost": 7516
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HONDA BRIO CHROME DOOR HANDLE COVERS",
+   "cost": 6006
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HONDA BRIO ROOF RAIL CROSS BARS",
+   "cost": 8623
+  },
+  {
+   "make": "Honda",
+   "model": "Brio",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HONDA BRIO WINDOW VISOR RAIN GUARDS",
+   "cost": 6364
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Offroad",
+   "part": "Honda CR-V Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Offroad",
+   "part": "Honda CR-V Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Offroad",
+   "part": "Honda CR-V Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Offroad",
+   "part": "Honda CR-V Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Offroad",
+   "part": "Honda CR-V Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Sports/Performance",
+   "part": "Honda CR-V Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Sports/Performance",
+   "part": "Honda CR-V Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Sports/Performance",
+   "part": "Honda CR-V Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Sports/Performance",
+   "part": "Honda CR-V Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Sports/Performance",
+   "part": "Honda CR-V Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Street/Casual",
+   "part": "Honda CR-V Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Street/Casual",
+   "part": "Honda CR-V Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Street/Casual",
+   "part": "Honda CR-V LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Street/Casual",
+   "part": "Honda CR-V Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Honda",
+   "model": "CR-V",
+   "modification_type": "Street/Casual",
+   "part": "Honda CR-V Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo HONDA CITY HIGH-FLOW AIR INTAKE",
+   "cost": 50611
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco HONDA CITY BIG BRAKE KIT",
+   "cost": 98218
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HONDA CITY PERFORMANCE CHIP TUNER",
+   "cost": 116630
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HONDA CITY PERFORMANCE EXHAUST SYSTEM",
+   "cost": 58562
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HONDA CITY STRUT TOWER BAR",
+   "cost": 17680
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo HONDA CITY COILOVER SUSPENSION",
+   "cost": 34451
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "ARB HONDA CITY REAR SPOILER",
+   "cost": 10058
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "Cusco HONDA CITY CHROME DOOR HANDLE COVERS",
+   "cost": 14243
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "HKS HONDA CITY WINDOW VISOR RAIN GUARDS",
+   "cost": 6337
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HONDA CITY LED FOG LAMP KIT",
+   "cost": 11352
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "Modulo HONDA CITY CHROME SIDE MIRROR COVERS",
+   "cost": 12218
+  },
+  {
+   "make": "Honda",
+   "model": "City",
+   "modification_type": "Street/Casual",
+   "part": "TEIN HONDA CITY ROOF RAIL CROSS BARS",
+   "cost": 8666
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Offroad",
+   "part": "Honda Civic Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Offroad",
+   "part": "Honda Civic Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Offroad",
+   "part": "Honda Civic Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Offroad",
+   "part": "Honda Civic Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Offroad",
+   "part": "Honda Civic Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Sports/Performance",
+   "part": "Honda Civic Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Sports/Performance",
+   "part": "Honda Civic Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Sports/Performance",
+   "part": "Honda Civic Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Sports/Performance",
+   "part": "Honda Civic Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Sports/Performance",
+   "part": "Honda Civic Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Street/Casual",
+   "part": "Honda Civic Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Street/Casual",
+   "part": "Honda Civic Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Street/Casual",
+   "part": "Honda Civic LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Street/Casual",
+   "part": "Honda Civic Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Honda",
+   "model": "Civic",
+   "modification_type": "Street/Casual",
+   "part": "Honda Civic Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco HONDA JAZZ BIG BRAKE KIT",
+   "cost": 116083
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "HKS HONDA JAZZ PERFORMANCE CHIP TUNER",
+   "cost": 41336
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HONDA JAZZ STRUT TOWER BAR",
+   "cost": 57813
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo HONDA JAZZ PERFORMANCE EXHAUST SYSTEM",
+   "cost": 31902
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen HONDA JAZZ HIGH-FLOW AIR INTAKE",
+   "cost": 110382
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN HONDA JAZZ COILOVER SUSPENSION",
+   "cost": 25697
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "HKS HONDA JAZZ WINDOW VISOR RAIN GUARDS",
+   "cost": 9803
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HONDA JAZZ CHROME SIDE MIRROR COVERS",
+   "cost": 4742
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HONDA JAZZ REAR SPOILER",
+   "cost": 12080
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HONDA JAZZ ROOF RAIL CROSS BARS",
+   "cost": 8233
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "TEIN HONDA JAZZ LED FOG LAMP KIT",
+   "cost": 3846
+  },
+  {
+   "make": "Honda",
+   "model": "Jazz",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HONDA JAZZ CHROME DOOR HANDLE COVERS",
+   "cost": 6217
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo HYUNDAI ACCENT PERFORMANCE EXHAUST SYSTEM",
+   "cost": 64197
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco HYUNDAI ACCENT PERFORMANCE CHIP TUNER",
+   "cost": 43687
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 HYUNDAI ACCENT COILOVER SUSPENSION",
+   "cost": 118376
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 HYUNDAI ACCENT HIGH-FLOW AIR INTAKE",
+   "cost": 55652
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen HYUNDAI ACCENT STRUT TOWER BAR",
+   "cost": 72765
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN HYUNDAI ACCENT BIG BRAKE KIT",
+   "cost": 104807
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "Cusco HYUNDAI ACCENT REAR SPOILER",
+   "cost": 4357
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HYUNDAI ACCENT LED FOG LAMP KIT",
+   "cost": 5758
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HYUNDAI ACCENT WINDOW VISOR RAIN GUARDS",
+   "cost": 4230
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "TEIN HYUNDAI ACCENT CHROME DOOR HANDLE COVERS",
+   "cost": 7449
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "TEIN HYUNDAI ACCENT CHROME SIDE MIRROR COVERS",
+   "cost": 12289
+  },
+  {
+   "make": "Hyundai",
+   "model": "Accent",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HYUNDAI ACCENT ROOF RAIL CROSS BARS",
+   "cost": 11546
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "ARB HYUNDAI REINA HIGH-FLOW AIR INTAKE",
+   "cost": 86533
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "ARB HYUNDAI REINA PERFORMANCE CHIP TUNER",
+   "cost": 106002
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 HYUNDAI REINA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 93820
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo HYUNDAI REINA COILOVER SUSPENSION",
+   "cost": 46747
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing HYUNDAI REINA BIG BRAKE KIT",
+   "cost": 117392
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing HYUNDAI REINA STRUT TOWER BAR",
+   "cost": 8414
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "ARB HYUNDAI REINA LED FOG LAMP KIT",
+   "cost": 6024
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HYUNDAI REINA CHROME SIDE MIRROR COVERS",
+   "cost": 8987
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HYUNDAI REINA ROOF RAIL CROSS BARS",
+   "cost": 3172
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HYUNDAI REINA CHROME DOOR HANDLE COVERS",
+   "cost": 13446
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "Mugen HYUNDAI REINA WINDOW VISOR RAIN GUARDS",
+   "cost": 13267
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing HYUNDAI REINA REAR SPOILER",
+   "cost": 4050
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "ARB HYUNDAI TUCSON HEAVY-DUTY SKID PLATE",
+   "cost": 50663
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "Brembo HYUNDAI TUCSON FENDER FLARES",
+   "cost": 60379
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "Cusco HYUNDAI TUCSON BULL BAR",
+   "cost": 32932
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "HKS HYUNDAI TUCSON SNORKEL INTAKE SYSTEM",
+   "cost": 42401
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 HYUNDAI TUCSON ALL-TERRAIN TIRES",
+   "cost": 42206
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing HYUNDAI TUCSON SUSPENSION LIFT KIT",
+   "cost": 55763
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "ARB HYUNDAI TUCSON HIGH-FLOW AIR INTAKE",
+   "cost": 66623
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco HYUNDAI TUCSON PERFORMANCE EXHAUST SYSTEM",
+   "cost": 36526
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 HYUNDAI TUCSON COILOVER SUSPENSION",
+   "cost": 38692
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "K&N HYUNDAI TUCSON STRUT TOWER BAR",
+   "cost": 18951
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo HYUNDAI TUCSON BIG BRAKE KIT",
+   "cost": 96916
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN HYUNDAI TUCSON PERFORMANCE CHIP TUNER",
+   "cost": 15604
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "Brembo HYUNDAI TUCSON CHROME DOOR HANDLE COVERS",
+   "cost": 4300
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "Cusco HYUNDAI TUCSON WINDOW VISOR RAIN GUARDS",
+   "cost": 4004
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 HYUNDAI TUCSON LED FOG LAMP KIT",
+   "cost": 4479
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "K&N HYUNDAI TUCSON REAR SPOILER",
+   "cost": 11586
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "Modulo HYUNDAI TUCSON CHROME SIDE MIRROR COVERS",
+   "cost": 10274
+  },
+  {
+   "make": "Hyundai",
+   "model": "Tucson",
+   "modification_type": "Street/Casual",
+   "part": "TEIN HYUNDAI TUCSON ROOF RAIL CROSS BARS",
+   "cost": 6413
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo KIA PICANTO BIG BRAKE KIT",
+   "cost": 18470
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen KIA PICANTO HIGH-FLOW AIR INTAKE",
+   "cost": 96463
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen KIA PICANTO STRUT TOWER BAR",
+   "cost": 53358
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN KIA PICANTO PERFORMANCE CHIP TUNER",
+   "cost": 37714
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing KIA PICANTO COILOVER SUSPENSION",
+   "cost": 109098
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing KIA PICANTO PERFORMANCE EXHAUST SYSTEM",
+   "cost": 108429
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "Brembo KIA PICANTO CHROME SIDE MIRROR COVERS",
+   "cost": 7758
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "Brembo KIA PICANTO WINDOW VISOR RAIN GUARDS",
+   "cost": 6972
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "HKS KIA PICANTO ROOF RAIL CROSS BARS",
+   "cost": 8473
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 KIA PICANTO CHROME DOOR HANDLE COVERS",
+   "cost": 6990
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "K&N KIA PICANTO REAR SPOILER",
+   "cost": 6095
+  },
+  {
+   "make": "Kia",
+   "model": "Picanto",
+   "modification_type": "Street/Casual",
+   "part": "TEIN KIA PICANTO LED FOG LAMP KIT",
+   "cost": 7540
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "ARB KIA SORENTO FENDER FLARES",
+   "cost": 46074
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "Brembo KIA SORENTO HEAVY-DUTY SKID PLATE",
+   "cost": 30368
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "Modulo KIA SORENTO BULL BAR",
+   "cost": 49167
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "Mugen KIA SORENTO SNORKEL INTAKE SYSTEM",
+   "cost": 37443
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "Mugen KIA SORENTO SUSPENSION LIFT KIT",
+   "cost": 68515
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Offroad",
+   "part": "TEIN KIA SORENTO ALL-TERRAIN TIRES",
+   "cost": 23646
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "ARB KIA SORENTO PERFORMANCE EXHAUST SYSTEM",
+   "cost": 120000
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "HKS KIA SORENTO COILOVER SUSPENSION",
+   "cost": 111729
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo KIA SORENTO PERFORMANCE CHIP TUNER",
+   "cost": 78336
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen KIA SORENTO BIG BRAKE KIT",
+   "cost": 16436
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN KIA SORENTO STRUT TOWER BAR",
+   "cost": 106233
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing KIA SORENTO HIGH-FLOW AIR INTAKE",
+   "cost": 17416
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "Brembo KIA SORENTO CHROME DOOR HANDLE COVERS",
+   "cost": 11806
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "K&N KIA SORENTO CHROME SIDE MIRROR COVERS",
+   "cost": 11280
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "Modulo KIA SORENTO LED FOG LAMP KIT",
+   "cost": 9874
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "Mugen KIA SORENTO WINDOW VISOR RAIN GUARDS",
+   "cost": 13294
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing KIA SORENTO REAR SPOILER",
+   "cost": 11573
+  },
+  {
+   "make": "Kia",
+   "model": "Sorento",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing KIA SORENTO ROOF RAIL CROSS BARS",
+   "cost": 6622
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "HKS KIA SPORTAGE ALL-TERRAIN TIRES",
+   "cost": 64845
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "HKS KIA SPORTAGE HEAVY-DUTY SKID PLATE",
+   "cost": 47936
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "Modulo KIA SPORTAGE BULL BAR",
+   "cost": 69682
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "Modulo KIA SPORTAGE FENDER FLARES",
+   "cost": 34693
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "TEIN KIA SPORTAGE SUSPENSION LIFT KIT",
+   "cost": 47627
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing KIA SPORTAGE SNORKEL INTAKE SYSTEM",
+   "cost": 60856
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "ARB KIA SPORTAGE PERFORMANCE CHIP TUNER",
+   "cost": 69537
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "K&N KIA SPORTAGE COILOVER SUSPENSION",
+   "cost": 23792
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "K&N KIA SPORTAGE HIGH-FLOW AIR INTAKE",
+   "cost": 95698
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen KIA SPORTAGE BIG BRAKE KIT",
+   "cost": 97053
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen KIA SPORTAGE STRUT TOWER BAR",
+   "cost": 54924
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing KIA SPORTAGE PERFORMANCE EXHAUST SYSTEM",
+   "cost": 68814
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "ARB KIA SPORTAGE ROOF RAIL CROSS BARS",
+   "cost": 13525
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "Brembo KIA SPORTAGE CHROME SIDE MIRROR COVERS",
+   "cost": 6530
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "Brembo KIA SPORTAGE LED FOG LAMP KIT",
+   "cost": 8640
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "HKS KIA SPORTAGE CHROME DOOR HANDLE COVERS",
+   "cost": 14046
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "Modulo KIA SPORTAGE REAR SPOILER",
+   "cost": 13600
+  },
+  {
+   "make": "Kia",
+   "model": "Sportage",
+   "modification_type": "Street/Casual",
+   "part": "Modulo KIA SPORTAGE WINDOW VISOR RAIN GUARDS",
+   "cost": 8062
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "ARB MG ZS SUSPENSION LIFT KIT",
+   "cost": 59298
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "Brembo MG ZS ALL-TERRAIN TIRES",
+   "cost": 13968
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "Cusco MG ZS BULL BAR",
+   "cost": 16742
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "K&N MG ZS FENDER FLARES",
+   "cost": 30869
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "Mugen MG ZS HEAVY-DUTY SKID PLATE",
+   "cost": 37101
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Offroad",
+   "part": "Mugen MG ZS SNORKEL INTAKE SYSTEM",
+   "cost": 13941
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MG ZS STRUT TOWER BAR",
+   "cost": 31323
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo MG ZS COILOVER SUSPENSION",
+   "cost": 29305
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco MG ZS PERFORMANCE EXHAUST SYSTEM",
+   "cost": 63945
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MG ZS HIGH-FLOW AIR INTAKE",
+   "cost": 79550
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo MG ZS BIG BRAKE KIT",
+   "cost": 106662
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen MG ZS PERFORMANCE CHIP TUNER",
+   "cost": 47816
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "ARB MG ZS REAR SPOILER",
+   "cost": 14100
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "Cusco MG ZS ROOF RAIL CROSS BARS",
+   "cost": 7002
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "HKS MG ZS CHROME SIDE MIRROR COVERS",
+   "cost": 7340
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 MG ZS LED FOG LAMP KIT",
+   "cost": 6639
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 MG ZS WINDOW VISOR RAIN GUARDS",
+   "cost": 14877
+  },
+  {
+   "make": "MG",
+   "model": "ZS",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MG ZS CHROME DOOR HANDLE COVERS",
+   "cost": 6047
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-3 BULL BAR",
+   "cost": 51053
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-3 FENDER FLARES",
+   "cost": 46547
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-3 HEAVY-DUTY SKID PLATE",
+   "cost": 61955
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-3 SUSPENSION LIFT KIT",
+   "cost": 65218
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "HKS MAZDA CX-3 ALL-TERRAIN TIRES",
+   "cost": 37213
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "K&N MAZDA CX-3 BULL BAR",
+   "cost": 51864
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "Mugen MAZDA CX-3 FENDER FLARES",
+   "cost": 29453
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "Mugen MAZDA CX-3 SUSPENSION LIFT KIT",
+   "cost": 44762
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "TEIN MAZDA CX-3 SNORKEL INTAKE SYSTEM",
+   "cost": 34129
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MAZDA CX-3 ALL-TERRAIN TIRES",
+   "cost": 28816
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MAZDA CX-3 HEAVY-DUTY SKID PLATE",
+   "cost": 25746
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MAZDA CX-3 SNORKEL INTAKE SYSTEM",
+   "cost": 41726
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MAZDA CX-3 PERFORMANCE CHIP TUNER",
+   "cost": 24562
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MAZDA CX-3 PERFORMANCE EXHAUST SYSTEM",
+   "cost": 44909
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo MAZDA CX-3 HIGH-FLOW AIR INTAKE",
+   "cost": 94568
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco MAZDA CX-3 BIG BRAKE KIT",
+   "cost": 37513
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "HKS MAZDA CX-3 PERFORMANCE CHIP TUNER",
+   "cost": 62063
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "HKS MAZDA CX-3 PERFORMANCE EXHAUST SYSTEM",
+   "cost": 105566
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MAZDA CX-3 HIGH-FLOW AIR INTAKE",
+   "cost": 80286
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MAZDA CX-3 COILOVER SUSPENSION",
+   "cost": 61647
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MAZDA CX-3 STRUT TOWER BAR",
+   "cost": 39226
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo MAZDA CX-3 COILOVER SUSPENSION",
+   "cost": 64170
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen MAZDA CX-3 STRUT TOWER BAR",
+   "cost": 64286
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing MAZDA CX-3 BIG BRAKE KIT",
+   "cost": 87553
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MAZDA CX-3 CHROME DOOR HANDLE COVERS",
+   "cost": 10284
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "Cusco MAZDA CX-3 ROOF RAIL CROSS BARS",
+   "cost": 14465
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "HKS MAZDA CX-3 REAR SPOILER",
+   "cost": 9419
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "HKS MAZDA CX-3 WINDOW VISOR RAIN GUARDS",
+   "cost": 5021
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "K&N MAZDA CX-3 CHROME SIDE MIRROR COVERS",
+   "cost": 6419
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "K&N MAZDA CX-3 LED FOG LAMP KIT",
+   "cost": 7958
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "Mugen MAZDA CX-3 CHROME SIDE MIRROR COVERS",
+   "cost": 8178
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MAZDA CX-3 CHROME DOOR HANDLE COVERS",
+   "cost": 6800
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MAZDA CX-3 REAR SPOILER",
+   "cost": 6629
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MAZDA CX-3 ROOF RAIL CROSS BARS",
+   "cost": 10735
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-3",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MAZDA CX-3 WINDOW VISOR RAIN GUARDS",
+   "cost": 6658
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-30 HEAVY-DUTY SKID PLATE",
+   "cost": 43343
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "Brembo MAZDA CX-30 FENDER FLARES",
+   "cost": 51348
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "Cusco MAZDA CX-30 SUSPENSION LIFT KIT",
+   "cost": 60373
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 MAZDA CX-30 BULL BAR",
+   "cost": 62370
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 MAZDA CX-30 SNORKEL INTAKE SYSTEM",
+   "cost": 37587
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Offroad",
+   "part": "TEIN MAZDA CX-30 ALL-TERRAIN TIRES",
+   "cost": 12824
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco MAZDA CX-30 STRUT TOWER BAR",
+   "cost": 29692
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MAZDA CX-30 BIG BRAKE KIT",
+   "cost": 53259
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MAZDA CX-30 PERFORMANCE CHIP TUNER",
+   "cost": 30814
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MAZDA CX-30 COILOVER SUSPENSION",
+   "cost": 35271
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing MAZDA CX-30 HIGH-FLOW AIR INTAKE",
+   "cost": 103021
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing MAZDA CX-30 PERFORMANCE EXHAUST SYSTEM",
+   "cost": 111810
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MAZDA CX-30 ROOF RAIL CROSS BARS",
+   "cost": 12760
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 MAZDA CX-30 WINDOW VISOR RAIN GUARDS",
+   "cost": 5586
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Mugen MAZDA CX-30 CHROME SIDE MIRROR COVERS",
+   "cost": 11727
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Mugen MAZDA CX-30 REAR SPOILER",
+   "cost": 3898
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MAZDA CX-30 CHROME DOOR HANDLE COVERS",
+   "cost": 4272
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-30",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MAZDA CX-30 LED FOG LAMP KIT",
+   "cost": 4300
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "ARB MAZDA CX-5 SNORKEL INTAKE SYSTEM",
+   "cost": 50612
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "HKS MAZDA CX-5 SUSPENSION LIFT KIT",
+   "cost": 69343
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 MAZDA CX-5 HEAVY-DUTY SKID PLATE",
+   "cost": 17085
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "TEIN MAZDA CX-5 BULL BAR",
+   "cost": 60931
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "TEIN MAZDA CX-5 FENDER FLARES",
+   "cost": 25816
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MAZDA CX-5 ALL-TERRAIN TIRES",
+   "cost": 32816
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MAZDA CX-5 PERFORMANCE CHIP TUNER",
+   "cost": 114906
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MAZDA CX-5 STRUT TOWER BAR",
+   "cost": 32246
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo MAZDA CX-5 COILOVER SUSPENSION",
+   "cost": 61942
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo MAZDA CX-5 HIGH-FLOW AIR INTAKE",
+   "cost": 92368
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN MAZDA CX-5 BIG BRAKE KIT",
+   "cost": 78318
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing MAZDA CX-5 PERFORMANCE EXHAUST SYSTEM",
+   "cost": 117979
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 MAZDA CX-5 REAR SPOILER",
+   "cost": 12940
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "K&N MAZDA CX-5 LED FOG LAMP KIT",
+   "cost": 8590
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "Modulo MAZDA CX-5 CHROME DOOR HANDLE COVERS",
+   "cost": 8793
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "Modulo MAZDA CX-5 WINDOW VISOR RAIN GUARDS",
+   "cost": 14813
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MAZDA CX-5 CHROME SIDE MIRROR COVERS",
+   "cost": 5968
+  },
+  {
+   "make": "Mazda",
+   "model": "CX-5",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MAZDA CX-5 ROOF RAIL CROSS BARS",
+   "cost": 12946
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "HKS MITSUBISHI LANCER FENDER FLARES",
+   "cost": 39466
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "HKS MITSUBISHI LANCER HEAVY-DUTY SKID PLATE",
+   "cost": 46127
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 MITSUBISHI LANCER SNORKEL INTAKE SYSTEM",
+   "cost": 15847
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "K&N MITSUBISHI LANCER BULL BAR",
+   "cost": 35557
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "Mugen MITSUBISHI LANCER ALL-TERRAIN TIRES",
+   "cost": 53732
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Offroad",
+   "part": "TEIN MITSUBISHI LANCER SUSPENSION LIFT KIT",
+   "cost": 20267
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MITSUBISHI LANCER PERFORMANCE EXHAUST SYSTEM",
+   "cost": 70284
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MITSUBISHI LANCER BIG BRAKE KIT",
+   "cost": 101348
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MITSUBISHI LANCER COILOVER SUSPENSION",
+   "cost": 12191
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MITSUBISHI LANCER STRUT TOWER BAR",
+   "cost": 74296
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen MITSUBISHI LANCER HIGH-FLOW AIR INTAKE",
+   "cost": 18086
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN MITSUBISHI LANCER PERFORMANCE CHIP TUNER",
+   "cost": 9042
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "ARB MITSUBISHI LANCER ROOF RAIL CROSS BARS",
+   "cost": 4926
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MITSUBISHI LANCER CHROME SIDE MIRROR COVERS",
+   "cost": 7426
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "K&N MITSUBISHI LANCER WINDOW VISOR RAIN GUARDS",
+   "cost": 6092
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "Modulo MITSUBISHI LANCER REAR SPOILER",
+   "cost": 8050
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "Mugen MITSUBISHI LANCER LED FOG LAMP KIT",
+   "cost": 13931
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Lancer",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MITSUBISHI LANCER CHROME DOOR HANDLE COVERS",
+   "cost": 11319
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Mirage Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Mirage Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Mirage Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Mirage Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Mirage Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Mirage Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Mirage Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Mirage Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Mirage Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Mirage Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Mirage Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Mirage Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Mirage LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Mirage Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Mirage",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Mirage Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Montero Sport Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Montero Sport Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Montero Sport Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Montero Sport Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Offroad",
+   "part": "Mitsubishi Montero Sport Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Montero Sport Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Montero Sport Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Montero Sport Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Montero Sport Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Sports/Performance",
+   "part": "Mitsubishi Montero Sport Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Montero Sport Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Montero Sport Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Montero Sport LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Montero Sport Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Montero Sport",
+   "modification_type": "Street/Casual",
+   "part": "Mitsubishi Montero Sport Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "Brembo MITSUBISHI STRADA ALL-TERRAIN TIRES",
+   "cost": 14414
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "K&N MITSUBISHI STRADA FENDER FLARES",
+   "cost": 19148
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "K&N MITSUBISHI STRADA SUSPENSION LIFT KIT",
+   "cost": 59433
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "Mugen MITSUBISHI STRADA BULL BAR",
+   "cost": 16781
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "TEIN MITSUBISHI STRADA SNORKEL INTAKE SYSTEM",
+   "cost": 54116
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MITSUBISHI STRADA HEAVY-DUTY SKID PLATE",
+   "cost": 39917
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MITSUBISHI STRADA PERFORMANCE CHIP TUNER",
+   "cost": 35969
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "HKS MITSUBISHI STRADA COILOVER SUSPENSION",
+   "cost": 30531
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MITSUBISHI STRADA HIGH-FLOW AIR INTAKE",
+   "cost": 110893
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MITSUBISHI STRADA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 82701
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "K&N MITSUBISHI STRADA STRUT TOWER BAR",
+   "cost": 97621
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo MITSUBISHI STRADA BIG BRAKE KIT",
+   "cost": 35274
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MITSUBISHI STRADA CHROME DOOR HANDLE COVERS",
+   "cost": 3258
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MITSUBISHI STRADA LED FOG LAMP KIT",
+   "cost": 7799
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "Cusco MITSUBISHI STRADA WINDOW VISOR RAIN GUARDS",
+   "cost": 3863
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "HKS MITSUBISHI STRADA CHROME SIDE MIRROR COVERS",
+   "cost": 4945
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MITSUBISHI STRADA REAR SPOILER",
+   "cost": 7470
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Strada",
+   "modification_type": "Street/Casual",
+   "part": "TEIN MITSUBISHI STRADA ROOF RAIL CROSS BARS",
+   "cost": 10044
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "ARB MITSUBISHI XPANDER ALL-TERRAIN TIRES",
+   "cost": 52974
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "ARB MITSUBISHI XPANDER SNORKEL INTAKE SYSTEM",
+   "cost": 36045
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "Cusco MITSUBISHI XPANDER FENDER FLARES",
+   "cost": 57149
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "Cusco MITSUBISHI XPANDER HEAVY-DUTY SKID PLATE",
+   "cost": 14394
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "Mugen MITSUBISHI XPANDER SUSPENSION LIFT KIT",
+   "cost": 50287
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing MITSUBISHI XPANDER BULL BAR",
+   "cost": 66169
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "ARB MITSUBISHI XPANDER PERFORMANCE CHIP TUNER",
+   "cost": 68152
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo MITSUBISHI XPANDER BIG BRAKE KIT",
+   "cost": 72759
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo MITSUBISHI XPANDER PERFORMANCE EXHAUST SYSTEM",
+   "cost": 92816
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "HKS MITSUBISHI XPANDER HIGH-FLOW AIR INTAKE",
+   "cost": 62992
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "HKS MITSUBISHI XPANDER STRUT TOWER BAR",
+   "cost": 108648
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 MITSUBISHI XPANDER COILOVER SUSPENSION",
+   "cost": 44197
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Brembo MITSUBISHI XPANDER LED FOG LAMP KIT",
+   "cost": 11688
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Cusco MITSUBISHI XPANDER CHROME DOOR HANDLE COVERS",
+   "cost": 9516
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Cusco MITSUBISHI XPANDER ROOF RAIL CROSS BARS",
+   "cost": 8367
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 MITSUBISHI XPANDER REAR SPOILER",
+   "cost": 6799
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Modulo MITSUBISHI XPANDER CHROME SIDE MIRROR COVERS",
+   "cost": 10083
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Xpander",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing MITSUBISHI XPANDER WINDOW VISOR RAIN GUARDS",
+   "cost": 3133
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo NISSAN ALMERA BIG BRAKE KIT",
+   "cost": 29144
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco NISSAN ALMERA STRUT TOWER BAR",
+   "cost": 55528
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "HKS NISSAN ALMERA HIGH-FLOW AIR INTAKE",
+   "cost": 59658
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "HKS NISSAN ALMERA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 13465
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "K&N NISSAN ALMERA COILOVER SUSPENSION",
+   "cost": 18817
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "K&N NISSAN ALMERA PERFORMANCE CHIP TUNER",
+   "cost": 91242
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "K&N NISSAN ALMERA STRUT TOWER BAR",
+   "cost": 69878
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo NISSAN ALMERA BIG BRAKE KIT",
+   "cost": 93048
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN NISSAN ALMERA COILOVER SUSPENSION",
+   "cost": 91552
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN NISSAN ALMERA HIGH-FLOW AIR INTAKE",
+   "cost": 31596
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN NISSAN ALMERA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 27948
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "ARB NISSAN ALMERA WINDOW VISOR RAIN GUARDS",
+   "cost": 4351
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 NISSAN ALMERA REAR SPOILER",
+   "cost": 6771
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 NISSAN ALMERA WINDOW VISOR RAIN GUARDS",
+   "cost": 11238
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "K&N NISSAN ALMERA CHROME DOOR HANDLE COVERS",
+   "cost": 11475
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "K&N NISSAN ALMERA CHROME SIDE MIRROR COVERS",
+   "cost": 11094
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "K&N NISSAN ALMERA ROOF RAIL CROSS BARS",
+   "cost": 10731
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Modulo NISSAN ALMERA LED FOG LAMP KIT",
+   "cost": 12607
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN ALMERA REAR SPOILER",
+   "cost": 8731
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN ALMERA ROOF RAIL CROSS BARS",
+   "cost": 7666
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "TEIN NISSAN ALMERA CHROME DOOR HANDLE COVERS",
+   "cost": 3210
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "TEIN NISSAN ALMERA CHROME SIDE MIRROR COVERS",
+   "cost": 3160
+  },
+  {
+   "make": "Nissan",
+   "model": "Almera",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing NISSAN ALMERA LED FOG LAMP KIT",
+   "cost": 10245
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "HKS NISSAN JUKE BULL BAR",
+   "cost": 43700
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "HKS NISSAN JUKE SNORKEL INTAKE SYSTEM",
+   "cost": 50209
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "Mugen NISSAN JUKE HEAVY-DUTY SKID PLATE",
+   "cost": 13422
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "TEIN NISSAN JUKE ALL-TERRAIN TIRES",
+   "cost": 16109
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "TEIN NISSAN JUKE FENDER FLARES",
+   "cost": 19979
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Offroad",
+   "part": "TEIN NISSAN JUKE SUSPENSION LIFT KIT",
+   "cost": 37327
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo NISSAN JUKE HIGH-FLOW AIR INTAKE",
+   "cost": 51999
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "HKS NISSAN JUKE PERFORMANCE EXHAUST SYSTEM",
+   "cost": 64650
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 NISSAN JUKE BIG BRAKE KIT",
+   "cost": 16805
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 NISSAN JUKE PERFORMANCE CHIP TUNER",
+   "cost": 39511
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo NISSAN JUKE COILOVER SUSPENSION",
+   "cost": 91318
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen NISSAN JUKE STRUT TOWER BAR",
+   "cost": 79927
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "ARB NISSAN JUKE CHROME DOOR HANDLE COVERS",
+   "cost": 5383
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "Cusco NISSAN JUKE CHROME SIDE MIRROR COVERS",
+   "cost": 7012
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "HKS NISSAN JUKE ROOF RAIL CROSS BARS",
+   "cost": 14526
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "K&N NISSAN JUKE REAR SPOILER",
+   "cost": 8316
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "Modulo NISSAN JUKE LED FOG LAMP KIT",
+   "cost": 6540
+  },
+  {
+   "make": "Nissan",
+   "model": "Juke",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing NISSAN JUKE WINDOW VISOR RAIN GUARDS",
+   "cost": 4440
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Offroad",
+   "part": "Nissan Navara Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Offroad",
+   "part": "Nissan Navara Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Offroad",
+   "part": "Nissan Navara Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Offroad",
+   "part": "Nissan Navara Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Offroad",
+   "part": "Nissan Navara Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Navara Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Navara Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Navara Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Navara Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Navara Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Navara Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Navara Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Navara LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Navara Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Nissan",
+   "model": "Navara",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Navara Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco NISSAN SYLPHY BIG BRAKE KIT",
+   "cost": 104047
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "K&N NISSAN SYLPHY COILOVER SUSPENSION",
+   "cost": 110981
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo NISSAN SYLPHY PERFORMANCE EXHAUST SYSTEM",
+   "cost": 78216
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen NISSAN SYLPHY HIGH-FLOW AIR INTAKE",
+   "cost": 50782
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen NISSAN SYLPHY PERFORMANCE CHIP TUNER",
+   "cost": 49847
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN NISSAN SYLPHY STRUT TOWER BAR",
+   "cost": 21202
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Brembo NISSAN SYLPHY CHROME SIDE MIRROR COVERS",
+   "cost": 10107
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Brembo NISSAN SYLPHY ROOF RAIL CROSS BARS",
+   "cost": 10845
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Cusco NISSAN SYLPHY REAR SPOILER",
+   "cost": 11280
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Modulo NISSAN SYLPHY LED FOG LAMP KIT",
+   "cost": 8126
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN SYLPHY CHROME DOOR HANDLE COVERS",
+   "cost": 11054
+  },
+  {
+   "make": "Nissan",
+   "model": "Sylphy",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN SYLPHY WINDOW VISOR RAIN GUARDS",
+   "cost": 11915
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Cusco NISSAN TERRA SUSPENSION LIFT KIT",
+   "cost": 15161
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "HKS NISSAN TERRA SNORKEL INTAKE SYSTEM",
+   "cost": 50191
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 NISSAN TERRA HEAVY-DUTY SKID PLATE",
+   "cost": 26814
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "K&N NISSAN TERRA ALL-TERRAIN TIRES",
+   "cost": 65582
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "K&N NISSAN TERRA FENDER FLARES",
+   "cost": 11440
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Mugen NISSAN TERRA BULL BAR",
+   "cost": 17719
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Nissan Terra Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Nissan Terra Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Nissan Terra Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Nissan Terra Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Offroad",
+   "part": "Nissan Terra Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "ARB NISSAN TERRA COILOVER SUSPENSION",
+   "cost": 60430
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco NISSAN TERRA BIG BRAKE KIT",
+   "cost": 88564
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "HKS NISSAN TERRA STRUT TOWER BAR",
+   "cost": 12153
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 NISSAN TERRA HIGH-FLOW AIR INTAKE",
+   "cost": 105510
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo NISSAN TERRA PERFORMANCE CHIP TUNER",
+   "cost": 41798
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo NISSAN TERRA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 100294
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Terra Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Terra Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Terra Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Terra Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Sports/Performance",
+   "part": "Nissan Terra Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "K&N NISSAN TERRA CHROME SIDE MIRROR COVERS",
+   "cost": 7667
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Modulo NISSAN TERRA REAR SPOILER",
+   "cost": 7485
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Modulo NISSAN TERRA ROOF RAIL CROSS BARS",
+   "cost": 9949
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN TERRA CHROME DOOR HANDLE COVERS",
+   "cost": 8796
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Mugen NISSAN TERRA LED FOG LAMP KIT",
+   "cost": 7322
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Terra Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Terra Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Terra LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Terra Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "Nissan Terra Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Nissan",
+   "model": "Terra",
+   "modification_type": "Street/Casual",
+   "part": "TEIN NISSAN TERRA WINDOW VISOR RAIN GUARDS",
+   "cost": 6477
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "ARB SUBARU FORESTER SUSPENSION LIFT KIT",
+   "cost": 45669
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Cusco SUBARU FORESTER ALL-TERRAIN TIRES",
+   "cost": 50869
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Cusco SUBARU FORESTER FENDER FLARES",
+   "cost": 29868
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "HKS SUBARU FORESTER BULL BAR",
+   "cost": 31292
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 SUBARU FORESTER HEAVY-DUTY SKID PLATE",
+   "cost": 29488
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 SUBARU FORESTER SNORKEL INTAKE SYSTEM",
+   "cost": 68626
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "K&N SUBARU FORESTER SUSPENSION LIFT KIT",
+   "cost": 12234
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Modulo SUBARU FORESTER BULL BAR",
+   "cost": 45590
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Modulo SUBARU FORESTER HEAVY-DUTY SKID PLATE",
+   "cost": 17864
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing SUBARU FORESTER ALL-TERRAIN TIRES",
+   "cost": 54681
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing SUBARU FORESTER FENDER FLARES",
+   "cost": 48063
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing SUBARU FORESTER SNORKEL INTAKE SYSTEM",
+   "cost": 42676
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUBARU FORESTER BIG BRAKE KIT",
+   "cost": 100024
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUBARU FORESTER PERFORMANCE EXHAUST SYSTEM",
+   "cost": 107240
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 SUBARU FORESTER PERFORMANCE CHIP TUNER",
+   "cost": 33365
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo SUBARU FORESTER BIG BRAKE KIT",
+   "cost": 103068
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo SUBARU FORESTER PERFORMANCE EXHAUST SYSTEM",
+   "cost": 67608
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen SUBARU FORESTER COILOVER SUSPENSION",
+   "cost": 77994
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen SUBARU FORESTER HIGH-FLOW AIR INTAKE",
+   "cost": 38070
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUBARU FORESTER COILOVER SUSPENSION",
+   "cost": 99654
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUBARU FORESTER PERFORMANCE CHIP TUNER",
+   "cost": 86724
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUBARU FORESTER STRUT TOWER BAR",
+   "cost": 111137
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing SUBARU FORESTER HIGH-FLOW AIR INTAKE",
+   "cost": 26317
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "ARB SUBARU FORESTER WINDOW VISOR RAIN GUARDS",
+   "cost": 3913
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Brembo SUBARU FORESTER LED FOG LAMP KIT",
+   "cost": 10400
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Brembo SUBARU FORESTER REAR SPOILER",
+   "cost": 13968
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Brembo SUBARU FORESTER ROOF RAIL CROSS BARS",
+   "cost": 6843
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Brembo SUBARU FORESTER WINDOW VISOR RAIN GUARDS",
+   "cost": 11734
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "K&N SUBARU FORESTER CHROME SIDE MIRROR COVERS",
+   "cost": 11058
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "K&N SUBARU FORESTER ROOF RAIL CROSS BARS",
+   "cost": 3181
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Modulo SUBARU FORESTER CHROME DOOR HANDLE COVERS",
+   "cost": 14367
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Modulo SUBARU FORESTER REAR SPOILER",
+   "cost": 11645
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUBARU FORESTER CHROME SIDE MIRROR COVERS",
+   "cost": 11833
+  },
+  {
+   "make": "Subaru",
+   "model": "Forester",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUBARU FORESTER LED FOG LAMP KIT",
+   "cost": 7561
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo SUZUKI CIAZ BIG BRAKE KIT",
+   "cost": 66622
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo SUZUKI CIAZ STRUT TOWER BAR",
+   "cost": 108136
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUZUKI CIAZ PERFORMANCE EXHAUST SYSTEM",
+   "cost": 82329
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI CIAZ PERFORMANCE CHIP TUNER",
+   "cost": 61881
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen SUZUKI CIAZ COILOVER SUSPENSION",
+   "cost": 106626
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUZUKI CIAZ HIGH-FLOW AIR INTAKE",
+   "cost": 103059
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "ARB SUZUKI CIAZ ROOF RAIL CROSS BARS",
+   "cost": 14840
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "Cusco SUZUKI CIAZ WINDOW VISOR RAIN GUARDS",
+   "cost": 10685
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI CIAZ CHROME DOOR HANDLE COVERS",
+   "cost": 9300
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI CIAZ LED FOG LAMP KIT",
+   "cost": 12935
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUZUKI CIAZ CHROME SIDE MIRROR COVERS",
+   "cost": 13119
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ciaz",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUZUKI CIAZ REAR SPOILER",
+   "cost": 3611
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "ARB SUZUKI DZIRE STRUT TOWER BAR",
+   "cost": 96092
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUZUKI DZIRE PERFORMANCE EXHAUST SYSTEM",
+   "cost": 76548
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI DZIRE HIGH-FLOW AIR INTAKE",
+   "cost": 8720
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 SUZUKI DZIRE PERFORMANCE CHIP TUNER",
+   "cost": 12831
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "K&N SUZUKI DZIRE BIG BRAKE KIT",
+   "cost": 30215
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen SUZUKI DZIRE COILOVER SUSPENSION",
+   "cost": 119756
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "Cusco SUZUKI DZIRE ROOF RAIL CROSS BARS",
+   "cost": 4094
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "Modulo SUZUKI DZIRE CHROME DOOR HANDLE COVERS",
+   "cost": 6175
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "Modulo SUZUKI DZIRE LED FOG LAMP KIT",
+   "cost": 8949
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI DZIRE CHROME SIDE MIRROR COVERS",
+   "cost": 4310
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI DZIRE REAR SPOILER",
+   "cost": 13291
+  },
+  {
+   "make": "Suzuki",
+   "model": "Dzire",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUZUKI DZIRE WINDOW VISOR RAIN GUARDS",
+   "cost": 13896
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "ARB SUZUKI ERTIGA BULL BAR",
+   "cost": 54470
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "Brembo SUZUKI ERTIGA HEAVY-DUTY SKID PLATE",
+   "cost": 53008
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "Cusco SUZUKI ERTIGA SNORKEL INTAKE SYSTEM",
+   "cost": 18228
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "Cusco SUZUKI ERTIGA SUSPENSION LIFT KIT",
+   "cost": 13556
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "HKS SUZUKI ERTIGA ALL-TERRAIN TIRES",
+   "cost": 52545
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Offroad",
+   "part": "Modulo SUZUKI ERTIGA FENDER FLARES",
+   "cost": 22953
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo SUZUKI ERTIGA COILOVER SUSPENSION",
+   "cost": 57935
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI ERTIGA HIGH-FLOW AIR INTAKE",
+   "cost": 36898
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo SUZUKI ERTIGA STRUT TOWER BAR",
+   "cost": 62082
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen SUZUKI ERTIGA PERFORMANCE CHIP TUNER",
+   "cost": 40373
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUZUKI ERTIGA BIG BRAKE KIT",
+   "cost": 24857
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUZUKI ERTIGA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 12717
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "ARB SUZUKI ERTIGA CHROME DOOR HANDLE COVERS",
+   "cost": 8529
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "Cusco SUZUKI ERTIGA LED FOG LAMP KIT",
+   "cost": 14217
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "HKS SUZUKI ERTIGA REAR SPOILER",
+   "cost": 5879
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 SUZUKI ERTIGA ROOF RAIL CROSS BARS",
+   "cost": 12500
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI ERTIGA WINDOW VISOR RAIN GUARDS",
+   "cost": 13047
+  },
+  {
+   "make": "Suzuki",
+   "model": "Ertiga",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing SUZUKI ERTIGA CHROME SIDE MIRROR COVERS",
+   "cost": 13779
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo SUZUKI SWIFT PERFORMANCE EXHAUST SYSTEM",
+   "cost": 81801
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo SUZUKI SWIFT STRUT TOWER BAR",
+   "cost": 119025
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUZUKI SWIFT COILOVER SUSPENSION",
+   "cost": 75063
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUZUKI SWIFT PERFORMANCE CHIP TUNER",
+   "cost": 103357
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco SUZUKI SWIFT PERFORMANCE EXHAUST SYSTEM",
+   "cost": 105479
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI SWIFT BIG BRAKE KIT",
+   "cost": 44261
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI SWIFT COILOVER SUSPENSION",
+   "cost": 39212
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "HKS SUZUKI SWIFT PERFORMANCE CHIP TUNER",
+   "cost": 73632
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 SUZUKI SWIFT BIG BRAKE KIT",
+   "cost": 17477
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "K&N SUZUKI SWIFT STRUT TOWER BAR",
+   "cost": 72595
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN SUZUKI SWIFT HIGH-FLOW AIR INTAKE",
+   "cost": 93783
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing SUZUKI SWIFT HIGH-FLOW AIR INTAKE",
+   "cost": 118065
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "ARB SUZUKI SWIFT CHROME SIDE MIRROR COVERS",
+   "cost": 13861
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "ARB SUZUKI SWIFT REAR SPOILER",
+   "cost": 8738
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "Brembo SUZUKI SWIFT REAR SPOILER",
+   "cost": 6650
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "Cusco SUZUKI SWIFT CHROME DOOR HANDLE COVERS",
+   "cost": 14849
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "Cusco SUZUKI SWIFT WINDOW VISOR RAIN GUARDS",
+   "cost": 7916
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "HKS SUZUKI SWIFT LED FOG LAMP KIT",
+   "cost": 10668
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "K&N SUZUKI SWIFT LED FOG LAMP KIT",
+   "cost": 3082
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "K&N SUZUKI SWIFT ROOF RAIL CROSS BARS",
+   "cost": 12983
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "K&N SUZUKI SWIFT WINDOW VISOR RAIN GUARDS",
+   "cost": 4741
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "Mugen SUZUKI SWIFT CHROME SIDE MIRROR COVERS",
+   "cost": 8798
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "Mugen SUZUKI SWIFT ROOF RAIL CROSS BARS",
+   "cost": 12351
+  },
+  {
+   "make": "Suzuki",
+   "model": "Swift",
+   "modification_type": "Street/Casual",
+   "part": "TEIN SUZUKI SWIFT CHROME DOOR HANDLE COVERS",
+   "cost": 5973
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "ARB TOYOTA AVANZA SNORKEL INTAKE SYSTEM",
+   "cost": 31233
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "Cusco TOYOTA AVANZA ALL-TERRAIN TIRES",
+   "cost": 63689
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 TOYOTA AVANZA HEAVY-DUTY SKID PLATE",
+   "cost": 33196
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "Ironman 4x4 TOYOTA AVANZA SUSPENSION LIFT KIT",
+   "cost": 46772
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "Modulo TOYOTA AVANZA BULL BAR",
+   "cost": 24564
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Offroad",
+   "part": "Modulo TOYOTA AVANZA FENDER FLARES",
+   "cost": 64160
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo TOYOTA AVANZA COILOVER SUSPENSION",
+   "cost": 64578
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco TOYOTA AVANZA PERFORMANCE CHIP TUNER",
+   "cost": 85675
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo TOYOTA AVANZA BIG BRAKE KIT",
+   "cost": 95229
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen TOYOTA AVANZA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 21087
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN TOYOTA AVANZA HIGH-FLOW AIR INTAKE",
+   "cost": 56208
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN TOYOTA AVANZA STRUT TOWER BAR",
+   "cost": 86137
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "ARB TOYOTA AVANZA LED FOG LAMP KIT",
+   "cost": 8624
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "Brembo TOYOTA AVANZA CHROME SIDE MIRROR COVERS",
+   "cost": 13347
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "Brembo TOYOTA AVANZA REAR SPOILER",
+   "cost": 4067
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "Cusco TOYOTA AVANZA ROOF RAIL CROSS BARS",
+   "cost": 9718
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "K&N TOYOTA AVANZA WINDOW VISOR RAIN GUARDS",
+   "cost": 14379
+  },
+  {
+   "make": "Toyota",
+   "model": "Avanza",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing TOYOTA AVANZA CHROME DOOR HANDLE COVERS",
+   "cost": 3062
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "Brembo TOYOTA COROLLA ALTIS ALL-TERRAIN TIRES",
+   "cost": 33813
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "Brembo TOYOTA COROLLA ALTIS BULL BAR",
+   "cost": 28315
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "HKS TOYOTA COROLLA ALTIS FENDER FLARES",
+   "cost": 63980
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "HKS TOYOTA COROLLA ALTIS SUSPENSION LIFT KIT",
+   "cost": 69301
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing TOYOTA COROLLA ALTIS HEAVY-DUTY SKID PLATE",
+   "cost": 19076
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Offroad",
+   "part": "Ultra Racing TOYOTA COROLLA ALTIS SNORKEL INTAKE SYSTEM",
+   "cost": 11120
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "ARB TOYOTA COROLLA ALTIS HIGH-FLOW AIR INTAKE",
+   "cost": 29495
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "ARB TOYOTA COROLLA ALTIS PERFORMANCE CHIP TUNER",
+   "cost": 92009
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "ARB TOYOTA COROLLA ALTIS STRUT TOWER BAR",
+   "cost": 100523
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "Ironman 4x4 TOYOTA COROLLA ALTIS COILOVER SUSPENSION",
+   "cost": 44531
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "K&N TOYOTA COROLLA ALTIS BIG BRAKE KIT",
+   "cost": 86726
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing TOYOTA COROLLA ALTIS PERFORMANCE EXHAUST SYSTEM",
+   "cost": 15668
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "Cusco TOYOTA COROLLA ALTIS CHROME DOOR HANDLE COVERS",
+   "cost": 6083
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 TOYOTA COROLLA ALTIS REAR SPOILER",
+   "cost": 13381
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "K&N TOYOTA COROLLA ALTIS ROOF RAIL CROSS BARS",
+   "cost": 5143
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "Modulo TOYOTA COROLLA ALTIS CHROME SIDE MIRROR COVERS",
+   "cost": 4680
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "TEIN TOYOTA COROLLA ALTIS WINDOW VISOR RAIN GUARDS",
+   "cost": 12588
+  },
+  {
+   "make": "Toyota",
+   "model": "Corolla Altis",
+   "modification_type": "Street/Casual",
+   "part": "Ultra Racing TOYOTA COROLLA ALTIS LED FOG LAMP KIT",
+   "cost": 9406
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Offroad",
+   "part": "Toyota Fortuner Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Offroad",
+   "part": "Toyota Fortuner Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Offroad",
+   "part": "Toyota Fortuner Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Offroad",
+   "part": "Toyota Fortuner Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Offroad",
+   "part": "Toyota Fortuner Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Fortuner Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Fortuner Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Fortuner Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Fortuner Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Fortuner Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Fortuner Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Fortuner Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Fortuner LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Fortuner Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Fortuner Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "ARB TOYOTA RUSH SUSPENSION LIFT KIT",
+   "cost": 50967
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "Cusco TOYOTA RUSH FENDER FLARES",
+   "cost": 47814
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "HKS TOYOTA RUSH ALL-TERRAIN TIRES",
+   "cost": 34882
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "HKS TOYOTA RUSH SNORKEL INTAKE SYSTEM",
+   "cost": 66495
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "Modulo TOYOTA RUSH BULL BAR",
+   "cost": 41622
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Offroad",
+   "part": "TEIN TOYOTA RUSH HEAVY-DUTY SKID PLATE",
+   "cost": 41346
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "HKS TOYOTA RUSH HIGH-FLOW AIR INTAKE",
+   "cost": 114015
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "HKS TOYOTA RUSH PERFORMANCE EXHAUST SYSTEM",
+   "cost": 70299
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "K&N TOYOTA RUSH STRUT TOWER BAR",
+   "cost": 21048
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "Modulo TOYOTA RUSH PERFORMANCE CHIP TUNER",
+   "cost": 44337
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "TEIN TOYOTA RUSH COILOVER SUSPENSION",
+   "cost": 92358
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing TOYOTA RUSH BIG BRAKE KIT",
+   "cost": 113508
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "Brembo TOYOTA RUSH LED FOG LAMP KIT",
+   "cost": 9383
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "HKS TOYOTA RUSH REAR SPOILER",
+   "cost": 3666
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "HKS TOYOTA RUSH ROOF RAIL CROSS BARS",
+   "cost": 11586
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 TOYOTA RUSH WINDOW VISOR RAIN GUARDS",
+   "cost": 13111
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "K&N TOYOTA RUSH CHROME DOOR HANDLE COVERS",
+   "cost": 12369
+  },
+  {
+   "make": "Toyota",
+   "model": "Rush",
+   "modification_type": "Street/Casual",
+   "part": "K&N TOYOTA RUSH CHROME SIDE MIRROR COVERS",
+   "cost": 10261
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Offroad",
+   "part": "Toyota Vios Heavy-Duty Skid Plate",
+   "cost": 15000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Offroad",
+   "part": "Toyota Vios Off-Road Fender Flares",
+   "cost": 12000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Offroad",
+   "part": "Toyota Vios Roof Rack Cross Bars",
+   "cost": 10000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Offroad",
+   "part": "Toyota Vios Snorkel Air Intake System",
+   "cost": 18000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Offroad",
+   "part": "Toyota Vios Suspension Lift Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Vios Adjustable Coilover Suspension",
+   "cost": 22000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Vios Cold Air Intake Kit",
+   "cost": 20000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Vios Performance Exhaust System",
+   "cost": 15000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Vios Turbocharger Upgrade",
+   "cost": 25000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Sports/Performance",
+   "part": "Toyota Vios Upgraded Brake Kit",
+   "cost": 18000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Vios Chrome Door Handle Cover",
+   "cost": 5000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Vios Floor Mat Set",
+   "cost": 6000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Vios LED Daytime Running Lights",
+   "cost": 8000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Vios Side Mirror Chrome Cover",
+   "cost": 7000
+  },
+  {
+   "make": "Toyota",
+   "model": "Vios",
+   "modification_type": "Street/Casual",
+   "part": "Toyota Vios Trunk Lip Spoiler",
+   "cost": 6500
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "Brembo VOLKSWAGEN SANTANA HIGH-FLOW AIR INTAKE",
+   "cost": 8664
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "Cusco VOLKSWAGEN SANTANA PERFORMANCE CHIP TUNER",
+   "cost": 20098
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "HKS VOLKSWAGEN SANTANA BIG BRAKE KIT",
+   "cost": 91368
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "HKS VOLKSWAGEN SANTANA STRUT TOWER BAR",
+   "cost": 20040
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "Mugen VOLKSWAGEN SANTANA PERFORMANCE EXHAUST SYSTEM",
+   "cost": 38732
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Sports/Performance",
+   "part": "Ultra Racing VOLKSWAGEN SANTANA COILOVER SUSPENSION",
+   "cost": 83430
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "Brembo VOLKSWAGEN SANTANA CHROME DOOR HANDLE COVERS",
+   "cost": 10483
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "Ironman 4x4 VOLKSWAGEN SANTANA WINDOW VISOR RAIN GUARDS",
+   "cost": 7059
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "K&N VOLKSWAGEN SANTANA LED FOG LAMP KIT",
+   "cost": 7630
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "Modulo VOLKSWAGEN SANTANA CHROME SIDE MIRROR COVERS",
+   "cost": 6356
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "Mugen VOLKSWAGEN SANTANA REAR SPOILER",
+   "cost": 8643
+  },
+  {
+   "make": "Volkswagen",
+   "model": "Santana",
+   "modification_type": "Street/Casual",
+   "part": "TEIN VOLKSWAGEN SANTANA ROOF RAIL CROSS BARS",
+   "cost": 14593
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "cars": [
+  {
+   "make": "Toyota",
+   "model": "Fortuner",
+   "body_type": "SUV",
+   "variant": "G",
+   "transmission": "CVT",
+   "drivetrain": "RWD",
+   "fuel_type": "Diesel",
+   "year": 2014,
+   "retail_srp": 1300000.0
+  },
+  {
+   "make": "Mitsubishi",
+   "model": "Evo X",
+   "body_type": "Sedan",
+   "variant": "MR",
+   "transmission": "Automatic",
+   "drivetrain": "AWD",
+   "fuel_type": "Unleaded",
+   "year": 2008,
+   "retail_srp": 2200000.0
+  },
+  {
+   "make": "Hyundai",
+   "model": "Reina",
+   "body_type": "Sedan",
+   "variant": null,
+   "transmission": "Automatic",
+   "drivetrain": "FWD",
+   "fuel_type": "Unleaded",
+   "year": 2021,
+   "retail_srp": 800000.0
+  },
+  {
+   "make": "Isuzu",
+   "model": "mu-X",
+   "body_type": "SUV",
+   "variant": "LS",
+   "transmission": "Automatic",
+   "drivetrain": "RWD",
+   "fuel_type": "Diesel",
+   "year": 2025,
+   "retail_srp": 1715000.0
+  },
+  {
+   "make": "RAM",
+   "model": "1500",
+   "body_type": "Pickup Truck",
+   "variant": "Rebel",
+   "transmission": "Automatic",
+   "drivetrain": "4WD",
+   "fuel_type": "Unleaded",
+   "year": 2025,
+   "retail_srp": 5250000.0
+  },
+  {
+   "make": "Chevrolet",
+   "model": "Suburban",
+   "body_type": "SUV",
+   "variant": "Z71",
+   "transmission": "Automatic",
+   "drivetrain": "4WD",
+   "fuel_type": "Unleaded",
+   "year": 2024,
+   "retail_srp": 8634888.0
+  }
+ ],
+ "parts": [
+  {
+   "make": "Momo",
+   "part_name": "Tuner Wheel",
+   "model_number": null,
+   "category": "Interior",
+   "srp": 9500.0
+  },
+  {
+   "make": "Toyota",
+   "part_name": "Brake Pad",
+   "model_number": "BP123",
+   "category": "Maintenance",
+   "srp": 2500.0
+  },
+  {
+   "make": "Honda",
+   "part_name": "Oil Filter",
+   "model_number": null,
+   "category": "Maintenance",
+   "srp": 600.0
+  },
+  {
+   "make": "Ford",
+   "part_name": "Headlight Assembly",
+   "model_number": "HL456",
+   "category": "Exterior",
+   "srp": 7500.0
+  },
+  {
+   "make": "Nissan",
+   "part_name": "Battery",
+   "model_number": "B789",
+   "category": "Maintenance",
+   "srp": 6200.0
+  },
+  {
+   "make": "Mitsubishi",
+   "part_name": "Air Filter",
+   "model_number": "AF321",
+   "category": "Maintenance",
+   "srp": 1800.0
+  },
+  {
+   "make": "Suzuki",
+   "part_name": "Spark Plug",
+   "model_number": null,
+   "category": "Maintenance",
+   "srp": 350.0
+  },
+  {
+   "make": "Hyundai",
+   "part_name": "Radiator",
+   "model_number": "R567",
+   "category": "Maintenance",
+   "srp": 5000.0
+  },
+  {
+   "make": "Chevrolet",
+   "part_name": "Alternator",
+   "model_number": "ALT001",
+   "category": "Maintenance",
+   "srp": 9500.0
+  },
+  {
+   "make": "Subaru",
+   "part_name": "Fuel Injector",
+   "model_number": "FI786",
+   "category": "Maintenance",
+   "srp": 4100.0
+  },
+  {
+   "make": "Mazda",
+   "part_name": "Timing Belt",
+   "model_number": "TB890",
+   "category": "Maintenance",
+   "srp": 3200.0
+  },
+  {
+   "make": "Motolite",
+   "part_name": "ENDURO 3SM",
+   "model_number": "D31/N70",
+   "category": "Maintenance",
+   "srp": 7000.0
+  }
+ ]
+}
